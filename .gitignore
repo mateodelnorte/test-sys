@@ -1,0 +1,7 @@
+.done
+.DS_Store
+.idea
+.Makefile.swp
+dump.rdb
+npm-debug.log
+/test-svc/
